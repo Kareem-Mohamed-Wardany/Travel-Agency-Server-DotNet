@@ -1,6 +1,6 @@
 # Travel Agency Server
 
-This is the backend server for the Travel Agency platform, responsible for handling business logic, database interactions, and API endpoints. Built with **Node.js**, **Express.js**, and **MongoDB**, it provides a secure and efficient backend for managing trips, reservations, and users.
+This is the backend server for the Travel Agency platform, responsible for handling business logic, database interactions, and API endpoints. Built with **.Net 9**, **Entity Framework Core**, and **SQL Server**, it provides a secure and efficient backend for managing trips, reservations, and users.
 
 ## Features
 
